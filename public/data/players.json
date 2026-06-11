@@ -1,0 +1,101 @@
+[
+  {
+    "id": "jess",
+    "name": "Jess",
+    "teams": [
+      "COL",
+      "JPN",
+      "QAT"
+    ]
+  },
+  {
+    "id": "paul",
+    "name": "Paul",
+    "teams": [
+      "MEX",
+      "AUS",
+      "KSA"
+    ]
+  },
+  {
+    "id": "sean",
+    "name": "Sean",
+    "teams": [
+      "BEL",
+      "EGY",
+      "SCO"
+    ]
+  },
+  {
+    "id": "alan",
+    "name": "Alan",
+    "teams": [
+      "CRO",
+      "AUT",
+      "NZL"
+    ]
+  },
+  {
+    "id": "sven",
+    "name": "Sven",
+    "teams": [
+      "POR",
+      "ALG",
+      "RSA"
+    ]
+  },
+  {
+    "id": "andrew",
+    "name": "Andrew",
+    "teams": [
+      "NED",
+      "ECU",
+      "JOR"
+    ]
+  },
+  {
+    "id": "richard",
+    "name": "Richard",
+    "teams": [
+      "ESP",
+      "SWE",
+      "UZB"
+    ]
+  },
+  {
+    "id": "anne",
+    "name": "Anne",
+    "teams": [
+      "ARG",
+      "CAN",
+      "GHA"
+    ]
+  },
+  {
+    "id": "jen",
+    "name": "Jen",
+    "teams": [
+      "USA",
+      "KOR",
+      "COD"
+    ]
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "teams": [
+      "FRA",
+      "SUI",
+      "CPV"
+    ]
+  },
+  {
+    "id": "wendy",
+    "name": "Wendy",
+    "teams": [
+      "MAR",
+      "CZE",
+      "TUN"
+    ]
+  }
+]
