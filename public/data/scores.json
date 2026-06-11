@@ -1,4 +1,215 @@
 {
-  "lastUpdated": null,
-  "players": []
+  "lastUpdated": "2026-06-11T10:21:44.059Z",
+  "prevTotals": {},
+  "players": [
+    {
+      "id": "jess",
+      "name": "Jess",
+      "total": 0,
+      "teams": {
+        "COL": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "JPN": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "QAT": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "paul",
+      "name": "Paul",
+      "total": 0,
+      "teams": {
+        "MEX": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "AUS": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "KSA": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "sean",
+      "name": "Sean",
+      "total": 0,
+      "teams": {
+        "BEL": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "EGY": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "SCO": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "alan",
+      "name": "Alan",
+      "total": 0,
+      "teams": {
+        "CRO": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "AUT": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "NZL": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "sven",
+      "name": "Sven",
+      "total": 0,
+      "teams": {
+        "POR": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "ALG": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "RSA": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "andrew",
+      "name": "Andrew",
+      "total": 0,
+      "teams": {
+        "NED": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "ECU": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "JOR": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "richard",
+      "name": "Richard",
+      "total": 0,
+      "teams": {
+        "ESP": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "SWE": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "UZB": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "anne",
+      "name": "Anne",
+      "total": 0,
+      "teams": {
+        "ARG": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "CAN": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "GHA": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "jen",
+      "name": "Jen",
+      "total": 0,
+      "teams": {
+        "USA": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "KOR": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "COD": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "total": 0,
+      "teams": {
+        "FRA": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "SUI": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "CPV": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    },
+    {
+      "id": "wendy",
+      "name": "Wendy",
+      "total": 0,
+      "teams": {
+        "MAR": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "CZE": {
+          "total": 0,
+          "breakdown": {}
+        },
+        "TUN": {
+          "total": 0,
+          "breakdown": {}
+        }
+      }
+    }
+  ]
 }
