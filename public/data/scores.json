@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2026-06-11T10:21:44.059Z",
-  "prevTotals": {},
+  "lastUpdated": "2026-06-11T15:45:53.546Z",
+  "prevTotals": {
+    "jess": 0,
+    "paul": 0,
+    "sean": 0,
+    "alan": 0,
+    "sven": 0,
+    "andrew": 0,
+    "richard": 0,
+    "anne": 0,
+    "jen": 0,
+    "john": 0,
+    "wendy": 0
+  },
   "players": [
     {
       "id": "jess",
