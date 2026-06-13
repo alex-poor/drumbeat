@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T21:09:17.605Z",
+  "lastUpdated": "2026-06-13T22:59:22.289Z",
   "prevTotals": {
     "jess": 0,
     "paul": 15,
@@ -17,7 +17,7 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 0,
+      "total": 5,
       "teams": {
         "COL": {
           "total": 0,
@@ -28,8 +28,11 @@
           "breakdown": {}
         },
         "QAT": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         }
       }
     },
@@ -201,15 +204,18 @@
     {
       "id": "john",
       "name": "John",
-      "total": 0,
+      "total": 5,
       "teams": {
         "FRA": {
           "total": 0,
           "breakdown": {}
         },
         "SUI": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         },
         "CPV": {
           "total": 0,
