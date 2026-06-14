@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-13T22:59:22.289Z",
+  "lastUpdated": "2026-06-14T03:28:55.776Z",
   "prevTotals": {
-    "jess": 0,
+    "jess": 5,
     "paul": 15,
     "sean": 0,
     "alan": 0,
@@ -10,7 +10,7 @@
     "richard": 0,
     "anne": 5,
     "jen": 28,
-    "john": 0,
+    "john": 5,
     "wendy": 3
   },
   "players": [
@@ -62,7 +62,7 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 0,
+      "total": 12,
       "teams": {
         "BEL": {
           "total": 0,
@@ -73,8 +73,12 @@
           "breakdown": {}
         },
         "SCO": {
-          "total": 0,
-          "breakdown": {}
+          "total": 12,
+          "breakdown": {
+            "win": 5,
+            "goals": 3,
+            "cleanSheet": 4
+          }
         }
       }
     },
@@ -226,11 +230,14 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 3,
+      "total": 8,
       "teams": {
         "MAR": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         },
         "CZE": {
           "total": 3,
