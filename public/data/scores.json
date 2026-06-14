@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-14T03:28:55.776Z",
+  "lastUpdated": "2026-06-14T08:11:37.239Z",
   "prevTotals": {
     "jess": 5,
     "paul": 15,
-    "sean": 0,
+    "sean": 12,
     "alan": 0,
     "sven": 0,
     "andrew": 0,
@@ -11,7 +11,7 @@
     "anne": 5,
     "jen": 28,
     "john": 5,
-    "wendy": 3
+    "wendy": 8
   },
   "players": [
     {
@@ -39,7 +39,7 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 15,
+      "total": 30,
       "teams": {
         "MEX": {
           "total": 15,
@@ -50,8 +50,12 @@
           }
         },
         "AUS": {
-          "total": 0,
-          "breakdown": {}
+          "total": 15,
+          "breakdown": {
+            "win": 5,
+            "goals": 6,
+            "cleanSheet": 4
+          }
         },
         "KSA": {
           "total": 0,
