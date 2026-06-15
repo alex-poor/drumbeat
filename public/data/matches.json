@@ -171,15 +171,15 @@
     "id": "537369",
     "homeTeam": "ESP",
     "awayTeam": "CPV",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 0,
+    "awayScore": 0,
     "date": "2026-06-15",
     "time": "16:00",
     "utc": "2026-06-15T16:00:00Z",
     "venue": "",
     "stage": "GROUP_STAGE",
     "group": "GROUP_H",
-    "status": "TIMED"
+    "status": "FINISHED"
   },
   {
     "id": "537363",
@@ -193,7 +193,7 @@
     "venue": "",
     "stage": "GROUP_STAGE",
     "group": "GROUP_G",
-    "status": "TIMED"
+    "status": "IN_PLAY"
   },
   {
     "id": "537370",
