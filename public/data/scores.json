@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T03:38:22.733Z",
+  "lastUpdated": "2026-06-15T09:57:15.487Z",
   "prevTotals": {
     "jess": 13,
     "paul": 30,
@@ -152,15 +152,18 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 0,
+      "total": 20,
       "teams": {
         "ESP": {
           "total": 0,
           "breakdown": {}
         },
         "SWE": {
-          "total": 0,
-          "breakdown": {}
+          "total": 20,
+          "breakdown": {
+            "win": 5,
+            "goals": 15
+          }
         },
         "UZB": {
           "total": 0,
@@ -240,7 +243,7 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 8,
+      "total": 11,
       "teams": {
         "MAR": {
           "total": 5,
@@ -256,8 +259,10 @@
           }
         },
         "TUN": {
-          "total": 0,
-          "breakdown": {}
+          "total": 3,
+          "breakdown": {
+            "goals": 3
+          }
         }
       }
     }
