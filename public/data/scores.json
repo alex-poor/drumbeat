@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T19:30:57.798Z",
+  "lastUpdated": "2026-06-16T22:07:37.604Z",
   "prevTotals": {
     "jess": 13,
     "paul": 35,
@@ -236,11 +236,14 @@
     {
       "id": "john",
       "name": "John",
-      "total": 11,
+      "total": 25,
       "teams": {
         "FRA": {
-          "total": 0,
-          "breakdown": {}
+          "total": 14,
+          "breakdown": {
+            "win": 5,
+            "goals": 9
+          }
         },
         "SUI": {
           "total": 5,
