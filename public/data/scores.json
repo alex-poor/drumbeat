@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-15T22:17:33.176Z",
+  "lastUpdated": "2026-06-16T03:33:55.657Z",
   "prevTotals": {
     "jess": 13,
     "paul": 30,
-    "sean": 12,
+    "sean": 22,
     "alan": 0,
     "sven": 0,
     "andrew": 8,
@@ -42,7 +42,7 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 30,
+      "total": 35,
       "teams": {
         "MEX": {
           "total": 15,
@@ -61,8 +61,11 @@
           }
         },
         "KSA": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         }
       }
     },
@@ -98,7 +101,7 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 0,
+      "total": 8,
       "teams": {
         "CRO": {
           "total": 0,
@@ -109,8 +112,11 @@
           "breakdown": {}
         },
         "NZL": {
-          "total": 0,
-          "breakdown": {}
+          "total": 8,
+          "breakdown": {
+            "draw": 2,
+            "goals": 6
+          }
         }
       }
     },
