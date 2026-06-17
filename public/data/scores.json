@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T16:52:49.183Z",
+  "lastUpdated": "2026-06-17T20:06:38.226Z",
   "prevTotals": {
     "jess": 13,
     "paul": 35,
@@ -126,11 +126,14 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 0,
+      "total": 5,
       "teams": {
         "POR": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         },
         "ALG": {
           "total": 0,
@@ -220,7 +223,7 @@
     {
       "id": "jen",
       "name": "Jen",
-      "total": 28,
+      "total": 33,
       "teams": {
         "USA": {
           "total": 17,
@@ -237,8 +240,11 @@
           }
         },
         "COD": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         }
       }
     },
