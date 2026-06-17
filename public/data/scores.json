@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T03:32:34.589Z",
+  "lastUpdated": "2026-06-17T08:57:12.933Z",
   "prevTotals": {
     "jess": 13,
     "paul": 35,
@@ -8,7 +8,7 @@
     "sven": 0,
     "andrew": 8,
     "richard": 26,
-    "anne": 5,
+    "anne": 23,
     "jen": 28,
     "john": 25,
     "wendy": 11
@@ -101,15 +101,18 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 8,
+      "total": 22,
       "teams": {
         "CRO": {
           "total": 0,
           "breakdown": {}
         },
         "AUT": {
-          "total": 0,
-          "breakdown": {}
+          "total": 14,
+          "breakdown": {
+            "win": 5,
+            "goals": 9
+          }
         },
         "NZL": {
           "total": 8,
@@ -142,7 +145,7 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 8,
+      "total": 11,
       "teams": {
         "NED": {
           "total": 8,
@@ -156,8 +159,10 @@
           "breakdown": {}
         },
         "JOR": {
-          "total": 0,
-          "breakdown": {}
+          "total": 3,
+          "breakdown": {
+            "goals": 3
+          }
         }
       }
     },
