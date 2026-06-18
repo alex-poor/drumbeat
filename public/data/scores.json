@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-18T20:18:22.146Z",
+  "lastUpdated": "2026-06-18T23:41:16.788Z",
   "prevTotals": {
     "jess": 27,
     "paul": 35,
     "sean": 22,
     "alan": 28,
-    "sven": 5,
+    "sven": 10,
     "andrew": 11,
     "richard": 29,
     "anne": 35,
     "jen": 33,
     "john": 25,
-    "wendy": 11
+    "wendy": 16
   },
   "players": [
     {
@@ -265,7 +265,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 25,
+      "total": 42,
       "teams": {
         "FRA": {
           "total": 14,
@@ -275,10 +275,11 @@
           }
         },
         "SUI": {
-          "total": 5,
+          "total": 22,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 15,
+            "win": 5
           }
         },
         "CPV": {
