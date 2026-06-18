@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T03:24:43.331Z",
+  "lastUpdated": "2026-06-18T08:43:55.393Z",
   "prevTotals": {
     "jess": 13,
     "paul": 35,
@@ -8,7 +8,7 @@
     "sven": 5,
     "andrew": 11,
     "richard": 26,
-    "anne": 23,
+    "anne": 35,
     "jen": 33,
     "john": 25,
     "wendy": 11
@@ -17,11 +17,14 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 13,
+      "total": 27,
       "teams": {
         "COL": {
-          "total": 0,
-          "breakdown": {}
+          "total": 14,
+          "breakdown": {
+            "win": 5,
+            "goals": 9
+          }
         },
         "JPN": {
           "total": 8,
@@ -174,7 +177,7 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 26,
+      "total": 29,
       "teams": {
         "ESP": {
           "total": 6,
@@ -191,8 +194,10 @@
           }
         },
         "UZB": {
-          "total": 0,
-          "breakdown": {}
+          "total": 3,
+          "breakdown": {
+            "goals": 3
+          }
         }
       }
     },
