@@ -311,15 +311,15 @@
     "id": "537410",
     "homeTeam": "GHA",
     "awayTeam": "PAN",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 1,
+    "awayScore": 0,
     "date": "2026-06-17",
     "time": "23:00",
     "utc": "2026-06-17T23:00:00Z",
     "venue": "",
     "stage": "GROUP_STAGE",
     "group": "GROUP_L",
-    "status": "IN_PLAY"
+    "status": "FINISHED"
   },
   {
     "id": "537404",
@@ -333,7 +333,7 @@
     "venue": "",
     "stage": "GROUP_STAGE",
     "group": "GROUP_K",
-    "status": "TIMED"
+    "status": "IN_PLAY"
   },
   {
     "id": "537329",

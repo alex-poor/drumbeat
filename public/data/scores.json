@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-17T23:19:38.605Z",
+  "lastUpdated": "2026-06-18T03:24:43.331Z",
   "prevTotals": {
     "jess": 13,
     "paul": 35,
     "sean": 22,
-    "alan": 22,
+    "alan": 28,
     "sven": 5,
     "andrew": 11,
     "richard": 26,
@@ -199,7 +199,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 23,
+      "total": 35,
       "teams": {
         "ARG": {
           "total": 18,
@@ -217,8 +217,12 @@
           }
         },
         "GHA": {
-          "total": 0,
-          "breakdown": {}
+          "total": 12,
+          "breakdown": {
+            "win": 5,
+            "goals": 3,
+            "cleanSheet": 4
+          }
         }
       }
     },
