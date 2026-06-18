@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T16:53:31.073Z",
+  "lastUpdated": "2026-06-18T20:18:22.146Z",
   "prevTotals": {
     "jess": 27,
     "paul": 35,
@@ -131,7 +131,7 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 5,
+      "total": 10,
       "teams": {
         "POR": {
           "total": 5,
@@ -145,8 +145,11 @@
           "breakdown": {}
         },
         "RSA": {
-          "total": 0,
-          "breakdown": {}
+          "total": 5,
+          "breakdown": {
+            "draw": 2,
+            "goals": 3
+          }
         }
       }
     },
@@ -290,7 +293,7 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 11,
+      "total": 16,
       "teams": {
         "MAR": {
           "total": 5,
@@ -300,9 +303,10 @@
           }
         },
         "CZE": {
-          "total": 3,
+          "total": 8,
           "breakdown": {
-            "goals": 3
+            "goals": 6,
+            "draw": 2
           }
         },
         "TUN": {
