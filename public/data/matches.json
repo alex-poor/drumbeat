@@ -114,7 +114,7 @@
   {
     "id": "537351",
     "homeTeam": "GER",
-    "awayTeam": "CUW",
+    "awayTeam": "CUR",
     "homeScore": 7,
     "awayScore": 1,
     "date": "2026-06-14",
@@ -478,7 +478,7 @@
   {
     "id": "537354",
     "homeTeam": "ECU",
-    "awayTeam": "CUW",
+    "awayTeam": "CUR",
     "homeScore": null,
     "awayScore": null,
     "date": "2026-06-21",
@@ -771,7 +771,7 @@
   },
   {
     "id": "537356",
-    "homeTeam": "CUW",
+    "homeTeam": "CUR",
     "awayTeam": "CIV",
     "homeScore": null,
     "awayScore": null,
