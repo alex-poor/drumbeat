@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:50:56.536Z",
+  "lastUpdated": "2026-06-20T02:50:21.309Z",
   "prevTotals": {
     "jess": 27,
     "paul": 47,
@@ -9,7 +9,7 @@
     "andrew": 11,
     "richard": 29,
     "anne": 62,
-    "jen": 33,
+    "jen": 48,
     "john": 42,
     "wendy": 16
   },
@@ -297,13 +297,15 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 16,
+      "total": 28,
       "teams": {
         "MAR": {
-          "total": 5,
+          "total": 17,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 6,
+            "win": 5,
+            "cleanSheet": 4
           }
         },
         "CZE": {
