@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T17:20:51.709Z",
+  "lastUpdated": "2026-06-20T19:17:07.994Z",
   "prevTotals": {
     "jess": 27,
     "paul": 47,
@@ -156,13 +156,14 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 11,
+      "total": 31,
       "teams": {
         "NED": {
-          "total": 8,
+          "total": 28,
           "breakdown": {
             "draw": 2,
-            "goals": 6
+            "goals": 21,
+            "win": 5
           }
         },
         "ECU": {
@@ -180,7 +181,7 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 29,
+      "total": 32,
       "teams": {
         "ESP": {
           "total": 6,
@@ -190,10 +191,10 @@
           }
         },
         "SWE": {
-          "total": 20,
+          "total": 23,
           "breakdown": {
             "win": 5,
-            "goals": 15
+            "goals": 18
           }
         },
         "UZB": {
