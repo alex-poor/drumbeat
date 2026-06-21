@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T19:23:04.280Z",
+  "lastUpdated": "2026-06-21T21:09:23.752Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -7,7 +7,7 @@
     "alan": 28,
     "sven": 10,
     "andrew": 37,
-    "richard": 32,
+    "richard": 56,
     "anne": 62,
     "jen": 48,
     "john": 42,
@@ -77,13 +77,14 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 22,
+      "total": 28,
       "teams": {
         "BEL": {
-          "total": 5,
+          "total": 11,
           "breakdown": {
-            "draw": 2,
-            "goals": 3
+            "draw": 4,
+            "goals": 3,
+            "cleanSheet": 4
           }
         },
         "EGY": {
@@ -186,15 +187,15 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 56,
+      "total": 53,
       "teams": {
         "ESP": {
-          "total": 30,
+          "total": 27,
           "breakdown": {
             "draw": 2,
             "cleanSheet": 8,
             "win": 5,
-            "goals": 15
+            "goals": 12
           }
         },
         "SWE": {
