@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T17:23:59.566Z",
+  "lastUpdated": "2026-06-21T19:23:04.280Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -186,13 +186,15 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 32,
+      "total": 56,
       "teams": {
         "ESP": {
-          "total": 6,
+          "total": 30,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 4
+            "cleanSheet": 8,
+            "win": 5,
+            "goals": 15
           }
         },
         "SWE": {
