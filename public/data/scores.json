@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-21T03:34:09.235Z",
+  "lastUpdated": "2026-06-21T08:24:51.256Z",
   "prevTotals": {
     "jess": 27,
     "paul": 47,
     "sean": 22,
     "alan": 28,
     "sven": 10,
-    "andrew": 31,
+    "andrew": 37,
     "richard": 32,
     "anne": 62,
     "jen": 48,
@@ -17,7 +17,7 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 27,
+      "total": 48,
       "teams": {
         "COL": {
           "total": 14,
@@ -27,10 +27,12 @@
           }
         },
         "JPN": {
-          "total": 8,
+          "total": 29,
           "breakdown": {
             "draw": 2,
-            "goals": 6
+            "goals": 18,
+            "win": 5,
+            "cleanSheet": 4
           }
         },
         "QAT": {
