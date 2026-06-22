@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T23:07:09.351Z",
+  "lastUpdated": "2026-06-22T03:38:57.069Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -77,7 +77,7 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 28,
+      "total": 42,
       "teams": {
         "BEL": {
           "total": 11,
@@ -88,10 +88,11 @@
           }
         },
         "EGY": {
-          "total": 5,
+          "total": 19,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 12,
+            "win": 5
           }
         },
         "SCO": {
@@ -107,7 +108,7 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 28,
+      "total": 31,
       "teams": {
         "CRO": {
           "total": 6,
@@ -123,10 +124,10 @@
           }
         },
         "NZL": {
-          "total": 8,
+          "total": 11,
           "breakdown": {
             "draw": 2,
-            "goals": 6
+            "goals": 9
           }
         }
       }
@@ -277,7 +278,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 42,
+      "total": 50,
       "teams": {
         "FRA": {
           "total": 14,
@@ -295,10 +296,11 @@
           }
         },
         "CPV": {
-          "total": 6,
+          "total": 14,
           "breakdown": {
-            "draw": 2,
-            "cleanSheet": 4
+            "draw": 4,
+            "cleanSheet": 4,
+            "goals": 6
           }
         }
       }
