@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T17:48:14.728Z",
+  "lastUpdated": "2026-06-23T19:54:03.387Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -135,13 +135,15 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 21,
+      "total": 45,
       "teams": {
         "POR": {
-          "total": 5,
+          "total": 29,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 18,
+            "win": 5,
+            "cleanSheet": 4
           }
         },
         "ALG": {
