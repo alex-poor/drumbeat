@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T02:44:06.514Z",
+  "lastUpdated": "2026-06-23T07:42:57.025Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -10,7 +10,7 @@
     "richard": 53,
     "anne": 77,
     "jen": 48,
-    "john": 50,
+    "john": 68,
     "wendy": 28
   },
   "players": [
@@ -135,7 +135,7 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 10,
+      "total": 21,
       "teams": {
         "POR": {
           "total": 5,
@@ -145,8 +145,11 @@
           }
         },
         "ALG": {
-          "total": 0,
-          "breakdown": {}
+          "total": 11,
+          "breakdown": {
+            "win": 5,
+            "goals": 6
+          }
         },
         "RSA": {
           "total": 5,
@@ -160,7 +163,7 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 37,
+      "total": 40,
       "teams": {
         "NED": {
           "total": 28,
@@ -178,9 +181,9 @@
           }
         },
         "JOR": {
-          "total": 3,
+          "total": 6,
           "breakdown": {
-            "goals": 3
+            "goals": 6
           }
         }
       }
