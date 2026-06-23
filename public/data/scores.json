@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T21:28:07.948Z",
+  "lastUpdated": "2026-06-23T23:04:34.526Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -222,7 +222,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 77,
+      "total": 83,
       "teams": {
         "ARG": {
           "total": 33,
@@ -242,11 +242,12 @@
           }
         },
         "GHA": {
-          "total": 12,
+          "total": 18,
           "breakdown": {
             "win": 5,
             "goals": 3,
-            "cleanSheet": 4
+            "cleanSheet": 8,
+            "draw": 2
           }
         }
       }
