@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-24T02:44:45.182Z",
+  "lastUpdated": "2026-06-24T07:35:43.423Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
     "sean": 42,
-    "alan": 31,
+    "alan": 43,
     "sven": 45,
     "andrew": 40,
     "richard": 53,
@@ -17,13 +17,14 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 48,
+      "total": 60,
       "teams": {
         "COL": {
-          "total": 14,
+          "total": 26,
           "breakdown": {
-            "win": 5,
-            "goals": 9
+            "win": 10,
+            "goals": 12,
+            "cleanSheet": 4
           }
         },
         "JPN": {
