@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T23:04:34.526Z",
+  "lastUpdated": "2026-06-24T02:44:45.182Z",
   "prevTotals": {
     "jess": 48,
     "paul": 47,
@@ -8,7 +8,7 @@
     "sven": 45,
     "andrew": 40,
     "richard": 53,
-    "anne": 77,
+    "anne": 83,
     "jen": 48,
     "john": 68,
     "wendy": 28
@@ -108,12 +108,14 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 31,
+      "total": 43,
       "teams": {
         "CRO": {
-          "total": 6,
+          "total": 18,
           "breakdown": {
-            "goals": 6
+            "goals": 9,
+            "win": 5,
+            "cleanSheet": 4
           }
         },
         "AUT": {
