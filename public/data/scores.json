@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:38:48.435Z",
+  "lastUpdated": "2026-06-24T21:19:05.562Z",
   "prevTotals": {
     "jess": 60,
     "paul": 47,
@@ -17,7 +17,7 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 60,
+      "total": 63,
       "teams": {
         "COL": {
           "total": 26,
@@ -37,10 +37,10 @@
           }
         },
         "QAT": {
-          "total": 5,
+          "total": 8,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 6
           }
         }
       }
@@ -225,7 +225,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 83,
+      "total": 86,
       "teams": {
         "ARG": {
           "total": 33,
@@ -236,10 +236,10 @@
           }
         },
         "CAN": {
-          "total": 32,
+          "total": 35,
           "breakdown": {
             "draw": 2,
-            "goals": 21,
+            "goals": 24,
             "win": 5,
             "cleanSheet": 4
           }
@@ -287,7 +287,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 68,
+      "total": 79,
       "teams": {
         "FRA": {
           "total": 32,
@@ -298,11 +298,11 @@
           }
         },
         "SUI": {
-          "total": 22,
+          "total": 33,
           "breakdown": {
             "draw": 2,
-            "goals": 15,
-            "win": 5
+            "goals": 21,
+            "win": 10
           }
         },
         "CPV": {
