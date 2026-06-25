@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T21:26:54.367Z",
+  "lastUpdated": "2026-06-25T23:12:54.762Z",
   "prevTotals": {
     "jess": 63,
     "paul": 65,
@@ -170,7 +170,7 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 40,
+      "total": 51,
       "teams": {
         "NED": {
           "total": 28,
@@ -181,10 +181,12 @@
           }
         },
         "ECU": {
-          "total": 6,
+          "total": 17,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 4
+            "cleanSheet": 4,
+            "win": 5,
+            "goals": 6
           }
         },
         "JOR": {
