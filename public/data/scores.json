@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-26T02:49:35.127Z",
+  "lastUpdated": "2026-06-26T07:45:15.729Z",
   "prevTotals": {
-    "jess": 63,
+    "jess": 68,
     "paul": 65,
     "sean": 42,
     "alan": 43,
     "sven": 57,
-    "andrew": 51,
-    "richard": 53,
+    "andrew": 65,
+    "richard": 58,
     "anne": 86,
     "jen": 48,
     "john": 79,
-    "wendy": 45
+    "wendy": 48
   },
   "players": [
     {
@@ -48,7 +48,7 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 65,
+      "total": 71,
       "teams": {
         "MEX": {
           "total": 45,
@@ -59,11 +59,12 @@
           }
         },
         "AUS": {
-          "total": 15,
+          "total": 21,
           "breakdown": {
             "win": 5,
             "goals": 6,
-            "cleanSheet": 4
+            "cleanSheet": 8,
+            "draw": 2
           }
         },
         "KSA": {
@@ -263,13 +264,13 @@
     {
       "id": "jen",
       "name": "Jen",
-      "total": 48,
+      "total": 54,
       "teams": {
         "USA": {
-          "total": 32,
+          "total": 38,
           "breakdown": {
             "win": 10,
-            "goals": 18,
+            "goals": 24,
             "cleanSheet": 4
           }
         },
