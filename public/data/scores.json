@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-06-25T23:12:54.762Z",
+  "lastUpdated": "2026-06-26T02:49:35.127Z",
   "prevTotals": {
     "jess": 63,
     "paul": 65,
     "sean": 42,
     "alan": 43,
     "sven": 57,
-    "andrew": 40,
+    "andrew": 51,
     "richard": 53,
     "anne": 86,
     "jen": 48,
@@ -17,7 +17,7 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 63,
+      "total": 68,
       "teams": {
         "COL": {
           "total": 26,
@@ -28,10 +28,10 @@
           }
         },
         "JPN": {
-          "total": 29,
+          "total": 34,
           "breakdown": {
-            "draw": 2,
-            "goals": 18,
+            "draw": 4,
+            "goals": 21,
             "win": 5,
             "cleanSheet": 4
           }
@@ -170,14 +170,14 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 51,
+      "total": 65,
       "teams": {
         "NED": {
-          "total": 28,
+          "total": 42,
           "breakdown": {
             "draw": 2,
-            "goals": 21,
-            "win": 5
+            "goals": 30,
+            "win": 10
           }
         },
         "ECU": {
@@ -200,7 +200,7 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 53,
+      "total": 58,
       "teams": {
         "ESP": {
           "total": 27,
@@ -212,10 +212,11 @@
           }
         },
         "SWE": {
-          "total": 23,
+          "total": 28,
           "breakdown": {
             "win": 5,
-            "goals": 18
+            "goals": 21,
+            "draw": 2
           }
         },
         "UZB": {
@@ -322,7 +323,7 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 45,
+      "total": 48,
       "teams": {
         "MAR": {
           "total": 34,
@@ -341,9 +342,9 @@
           }
         },
         "TUN": {
-          "total": 3,
+          "total": 6,
           "breakdown": {
-            "goals": 3
+            "goals": 6
           }
         }
       }
