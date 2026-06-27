@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T23:00:47.436Z",
+  "lastUpdated": "2026-06-27T02:40:19.950Z",
   "prevTotals": {
     "jess": 68,
     "paul": 71,
@@ -48,7 +48,7 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 71,
+      "total": 77,
       "teams": {
         "MEX": {
           "total": 45,
@@ -68,10 +68,11 @@
           }
         },
         "KSA": {
-          "total": 5,
+          "total": 11,
           "breakdown": {
-            "draw": 2,
-            "goals": 3
+            "draw": 4,
+            "goals": 3,
+            "cleanSheet": 4
           }
         }
       }
@@ -201,15 +202,15 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 58,
+      "total": 70,
       "teams": {
         "ESP": {
-          "total": 27,
+          "total": 39,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 8,
-            "win": 5,
-            "goals": 12
+            "cleanSheet": 12,
+            "win": 10,
+            "goals": 15
           }
         },
         "SWE": {
@@ -293,7 +294,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 96,
+      "total": 102,
       "teams": {
         "FRA": {
           "total": 49,
@@ -312,10 +313,10 @@
           }
         },
         "CPV": {
-          "total": 14,
+          "total": 20,
           "breakdown": {
-            "draw": 4,
-            "cleanSheet": 4,
+            "draw": 6,
+            "cleanSheet": 8,
             "goals": 6
           }
         }
