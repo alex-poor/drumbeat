@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-28T02:54:51.264Z",
+  "lastUpdated": "2026-06-28T07:46:12.710Z",
   "prevTotals": {
-    "jess": 68,
+    "jess": 74,
     "paul": 77,
     "sean": 67,
-    "alan": 46,
-    "sven": 57,
+    "alan": 57,
+    "sven": 63,
     "andrew": 65,
-    "richard": 70,
-    "anne": 86,
-    "jen": 54,
+    "richard": 73,
+    "anne": 89,
+    "jen": 68,
     "john": 102,
     "wendy": 48
   },
@@ -113,7 +113,7 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 57,
+      "total": 68,
       "teams": {
         "CRO": {
           "total": 29,
@@ -124,10 +124,11 @@
           }
         },
         "AUT": {
-          "total": 14,
+          "total": 25,
           "breakdown": {
             "win": 5,
-            "goals": 9
+            "goals": 18,
+            "draw": 2
           }
         },
         "NZL": {
@@ -142,7 +143,7 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 63,
+      "total": 74,
       "teams": {
         "POR": {
           "total": 35,
@@ -154,10 +155,11 @@
           }
         },
         "ALG": {
-          "total": 11,
+          "total": 22,
           "breakdown": {
             "win": 5,
-            "goals": 6
+            "goals": 15,
+            "draw": 2
           }
         },
         "RSA": {
@@ -174,7 +176,7 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 65,
+      "total": 68,
       "teams": {
         "NED": {
           "total": 42,
@@ -194,9 +196,9 @@
           }
         },
         "JOR": {
-          "total": 6,
+          "total": 9,
           "breakdown": {
-            "goals": 6
+            "goals": 9
           }
         }
       }
@@ -234,13 +236,13 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 89,
+      "total": 103,
       "teams": {
         "ARG": {
-          "total": 33,
+          "total": 47,
           "breakdown": {
-            "win": 10,
-            "goals": 15,
+            "win": 15,
+            "goals": 24,
             "cleanSheet": 8
           }
         },
