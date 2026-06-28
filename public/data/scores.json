@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T22:58:34.351Z",
+  "lastUpdated": "2026-06-28T02:54:51.264Z",
   "prevTotals": {
     "jess": 68,
     "paul": 77,
@@ -17,14 +17,15 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 68,
+      "total": 74,
       "teams": {
         "COL": {
-          "total": 26,
+          "total": 32,
           "breakdown": {
             "win": 10,
             "goals": 12,
-            "cleanSheet": 4
+            "cleanSheet": 8,
+            "draw": 2
           }
         },
         "JPN": {
@@ -112,13 +113,13 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 46,
+      "total": 57,
       "teams": {
         "CRO": {
-          "total": 18,
+          "total": 29,
           "breakdown": {
-            "goals": 9,
-            "win": 5,
+            "goals": 15,
+            "win": 10,
             "cleanSheet": 4
           }
         },
@@ -141,15 +142,15 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 57,
+      "total": 63,
       "teams": {
         "POR": {
-          "total": 29,
+          "total": 35,
           "breakdown": {
-            "draw": 2,
+            "draw": 4,
             "goals": 18,
             "win": 5,
-            "cleanSheet": 4
+            "cleanSheet": 8
           }
         },
         "ALG": {
@@ -203,7 +204,7 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 70,
+      "total": 73,
       "teams": {
         "ESP": {
           "total": 39,
@@ -223,9 +224,9 @@
           }
         },
         "UZB": {
-          "total": 3,
+          "total": 6,
           "breakdown": {
-            "goals": 3
+            "goals": 6
           }
         }
       }
@@ -233,7 +234,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 86,
+      "total": 89,
       "teams": {
         "ARG": {
           "total": 33,
@@ -253,10 +254,10 @@
           }
         },
         "GHA": {
-          "total": 18,
+          "total": 21,
           "breakdown": {
             "win": 5,
-            "goals": 3,
+            "goals": 6,
             "cleanSheet": 8,
             "draw": 2
           }
@@ -266,7 +267,7 @@
     {
       "id": "jen",
       "name": "Jen",
-      "total": 54,
+      "total": 68,
       "teams": {
         "USA": {
           "total": 38,
@@ -284,10 +285,11 @@
           }
         },
         "COD": {
-          "total": 5,
+          "total": 19,
           "breakdown": {
             "draw": 2,
-            "goals": 3
+            "goals": 12,
+            "win": 5
           }
         }
       }
