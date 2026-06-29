@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T18:05:47.850Z",
+  "lastUpdated": "2026-06-29T21:20:55.621Z",
   "prevTotals": {
     "jess": 74,
     "paul": 77,
@@ -17,7 +17,7 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 74,
+      "total": 82,
       "teams": {
         "COL": {
           "total": 32,
@@ -29,12 +29,13 @@
           }
         },
         "JPN": {
-          "total": 34,
+          "total": 42,
           "breakdown": {
             "draw": 4,
-            "goals": 21,
+            "goals": 24,
             "win": 5,
-            "cleanSheet": 4
+            "cleanSheet": 4,
+            "LAST_32": 5
           }
         },
         "QAT": {
