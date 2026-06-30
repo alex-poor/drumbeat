@@ -1053,15 +1053,15 @@
     "id": "537418",
     "homeTeam": "NED",
     "awayTeam": "MAR",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 3,
+    "awayScore": 4,
     "date": "2026-06-30",
     "time": "01:00",
     "utc": "2026-06-30T01:00:00Z",
     "venue": "",
     "stage": "LAST_32",
     "group": null,
-    "status": "IN_PLAY"
+    "status": "FINISHED"
   },
   {
     "id": "537424",
@@ -1234,7 +1234,7 @@
   {
     "id": "537376",
     "homeTeam": "CAN",
-    "awayTeam": null,
+    "awayTeam": "MAR",
     "homeScore": null,
     "awayScore": null,
     "date": "2026-07-04",
@@ -1247,7 +1247,7 @@
   },
   {
     "id": "537375",
-    "homeTeam": null,
+    "homeTeam": "PAR",
     "awayTeam": null,
     "homeScore": null,
     "awayScore": null,
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "537377",
-    "homeTeam": null,
+    "homeTeam": "BRA",
     "awayTeam": null,
     "homeScore": null,
     "awayScore": null,

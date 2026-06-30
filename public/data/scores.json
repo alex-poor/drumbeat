@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T02:49:25.351Z",
+  "lastUpdated": "2026-06-30T07:49:07.094Z",
   "prevTotals": {
     "jess": 82,
     "paul": 77,
@@ -178,14 +178,15 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 68,
+      "total": 82,
       "teams": {
         "NED": {
-          "total": 42,
+          "total": 56,
           "breakdown": {
             "draw": 2,
-            "goals": 30,
-            "win": 10
+            "goals": 39,
+            "win": 10,
+            "LAST_32": 5
           }
         },
         "ECU": {
@@ -333,15 +334,16 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 48,
+      "total": 70,
       "teams": {
         "MAR": {
-          "total": 34,
+          "total": 56,
           "breakdown": {
             "draw": 2,
-            "goals": 18,
-            "win": 10,
-            "cleanSheet": 4
+            "goals": 30,
+            "win": 15,
+            "cleanSheet": 4,
+            "LAST_32": 5
           }
         },
         "CZE": {
