@@ -1039,15 +1039,15 @@
     "id": "537415",
     "homeTeam": "GER",
     "awayTeam": "PAR",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 4,
+    "awayScore": 5,
     "date": "2026-06-29",
     "time": "20:30",
     "utc": "2026-06-29T20:30:00Z",
     "venue": "",
     "stage": "LAST_32",
     "group": null,
-    "status": "IN_PLAY"
+    "status": "FINISHED"
   },
   {
     "id": "537418",
@@ -1061,7 +1061,7 @@
     "venue": "",
     "stage": "LAST_32",
     "group": null,
-    "status": "TIMED"
+    "status": "IN_PLAY"
   },
   {
     "id": "537424",
