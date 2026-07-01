@@ -1095,15 +1095,15 @@
     "id": "537425",
     "homeTeam": "MEX",
     "awayTeam": "ECU",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 0,
     "date": "2026-07-01",
     "time": "01:00",
     "utc": "2026-07-01T01:00:00Z",
     "venue": "",
     "stage": "LAST_32",
     "group": null,
-    "status": "LIVE"
+    "status": "FINISHED"
   },
   {
     "id": "537426",
@@ -1248,7 +1248,7 @@
   {
     "id": "537375",
     "homeTeam": "PAR",
-    "awayTeam": null,
+    "awayTeam": "FRA",
     "homeScore": null,
     "awayScore": null,
     "date": "2026-07-04",
@@ -1262,7 +1262,7 @@
   {
     "id": "537377",
     "homeTeam": "BRA",
-    "awayTeam": null,
+    "awayTeam": "NOR",
     "homeScore": null,
     "awayScore": null,
     "date": "2026-07-05",

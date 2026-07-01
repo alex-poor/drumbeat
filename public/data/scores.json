@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T02:55:01.074Z",
+  "lastUpdated": "2026-07-01T08:06:59.274Z",
   "prevTotals": {
     "jess": 82,
     "paul": 77,
@@ -50,14 +50,15 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 77,
+      "total": 97,
       "teams": {
         "MEX": {
-          "total": 45,
+          "total": 65,
           "breakdown": {
-            "win": 15,
-            "goals": 18,
-            "cleanSheet": 12
+            "win": 20,
+            "goals": 24,
+            "cleanSheet": 16,
+            "LAST_32": 5
           }
         },
         "AUS": {
@@ -178,7 +179,7 @@
     {
       "id": "andrew",
       "name": "Andrew",
-      "total": 82,
+      "total": 87,
       "teams": {
         "NED": {
           "total": 56,
@@ -190,12 +191,13 @@
           }
         },
         "ECU": {
-          "total": 17,
+          "total": 22,
           "breakdown": {
             "draw": 2,
             "cleanSheet": 4,
             "win": 5,
-            "goals": 6
+            "goals": 6,
+            "LAST_32": 5
           }
         },
         "JOR": {
