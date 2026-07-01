@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T21:22:46.073Z",
+  "lastUpdated": "2026-07-01T23:08:31.769Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
@@ -83,15 +83,16 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 67,
+      "total": 86,
       "teams": {
         "BEL": {
-          "total": 31,
+          "total": 50,
           "breakdown": {
             "draw": 4,
-            "goals": 18,
+            "goals": 27,
             "cleanSheet": 4,
-            "win": 5
+            "win": 10,
+            "LAST_32": 5
           }
         },
         "EGY": {
