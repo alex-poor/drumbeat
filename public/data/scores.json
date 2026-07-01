@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T16:22:54.421Z",
+  "lastUpdated": "2026-07-01T19:45:55.859Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
@@ -276,7 +276,7 @@
     {
       "id": "jen",
       "name": "Jen",
-      "total": 68,
+      "total": 76,
       "teams": {
         "USA": {
           "total": 38,
@@ -294,11 +294,12 @@
           }
         },
         "COD": {
-          "total": 19,
+          "total": 27,
           "breakdown": {
             "draw": 2,
-            "goals": 12,
-            "win": 5
+            "goals": 15,
+            "win": 5,
+            "LAST_32": 5
           }
         }
       }
