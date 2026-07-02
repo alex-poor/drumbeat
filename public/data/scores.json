@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-01T23:08:31.769Z",
+  "lastUpdated": "2026-07-02T02:44:58.271Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
-    "sean": 67,
+    "sean": 86,
     "alan": 68,
     "sven": 79,
     "andrew": 87,
@@ -277,14 +277,15 @@
     {
       "id": "jen",
       "name": "Jen",
-      "total": 76,
+      "total": 96,
       "teams": {
         "USA": {
-          "total": 38,
+          "total": 58,
           "breakdown": {
-            "win": 10,
-            "goals": 24,
-            "cleanSheet": 4
+            "win": 15,
+            "goals": 30,
+            "cleanSheet": 8,
+            "LAST_32": 5
           }
         },
         "KOR": {
