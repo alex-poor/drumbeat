@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T20:59:31.094Z",
+  "lastUpdated": "2026-07-02T22:59:33.935Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
@@ -116,7 +116,7 @@
     {
       "id": "alan",
       "name": "Alan",
-      "total": 68,
+      "total": 73,
       "teams": {
         "CRO": {
           "total": 29,
@@ -127,11 +127,12 @@
           }
         },
         "AUT": {
-          "total": 25,
+          "total": 30,
           "breakdown": {
             "win": 5,
             "goals": 18,
-            "draw": 2
+            "draw": 2,
+            "LAST_32": 5
           }
         },
         "NZL": {
@@ -212,15 +213,16 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 78,
+      "total": 101,
       "teams": {
         "ESP": {
-          "total": 39,
+          "total": 62,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 12,
-            "win": 10,
-            "goals": 15
+            "cleanSheet": 16,
+            "win": 15,
+            "goals": 24,
+            "LAST_32": 5
           }
         },
         "SWE": {
