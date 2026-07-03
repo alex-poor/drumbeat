@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T19:11:30.470Z",
+  "lastUpdated": "2026-07-03T20:58:26.044Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
@@ -50,7 +50,7 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 97,
+      "total": 111,
       "teams": {
         "MEX": {
           "total": 65,
@@ -62,12 +62,13 @@
           }
         },
         "AUS": {
-          "total": 21,
+          "total": 35,
           "breakdown": {
             "win": 5,
-            "goals": 6,
+            "goals": 15,
             "cleanSheet": 8,
-            "draw": 2
+            "draw": 2,
+            "LAST_32": 5
           }
         },
         "KSA": {
@@ -83,7 +84,7 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 86,
+      "total": 111,
       "teams": {
         "BEL": {
           "total": 50,
@@ -96,11 +97,12 @@
           }
         },
         "EGY": {
-          "total": 24,
+          "total": 49,
           "breakdown": {
             "draw": 4,
-            "goals": 15,
-            "win": 5
+            "goals": 30,
+            "win": 10,
+            "LAST_32": 5
           }
         },
         "SCO": {
