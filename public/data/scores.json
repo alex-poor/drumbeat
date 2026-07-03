@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-03T02:27:30.139Z",
+  "lastUpdated": "2026-07-03T06:57:40.747Z",
   "prevTotals": {
     "jess": 82,
     "paul": 97,
     "sean": 86,
-    "alan": 73,
-    "sven": 79,
+    "alan": 81,
+    "sven": 95,
     "andrew": 87,
     "richard": 101,
     "anne": 120,
@@ -148,7 +148,7 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 95,
+      "total": 100,
       "teams": {
         "POR": {
           "total": 51,
@@ -161,11 +161,12 @@
           }
         },
         "ALG": {
-          "total": 22,
+          "total": 27,
           "breakdown": {
             "win": 5,
             "goals": 15,
-            "draw": 2
+            "draw": 2,
+            "LAST_32": 5
           }
         },
         "RSA": {
@@ -313,7 +314,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 125,
+      "total": 145,
       "teams": {
         "FRA": {
           "total": 72,
@@ -325,11 +326,13 @@
           }
         },
         "SUI": {
-          "total": 33,
+          "total": 53,
           "breakdown": {
             "draw": 2,
-            "goals": 21,
-            "win": 10
+            "goals": 27,
+            "win": 15,
+            "cleanSheet": 4,
+            "LAST_32": 5
           }
         },
         "CPV": {
