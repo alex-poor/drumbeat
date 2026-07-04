@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T19:02:05.185Z",
+  "lastUpdated": "2026-07-04T20:49:51.283Z",
   "prevTotals": {
     "jess": 99,
     "paul": 111,
@@ -251,7 +251,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 144,
+      "total": 154,
       "teams": {
         "ARG": {
           "total": 66,
@@ -263,13 +263,14 @@
           }
         },
         "CAN": {
-          "total": 52,
+          "total": 62,
           "breakdown": {
             "draw": 2,
             "goals": 27,
             "win": 10,
             "cleanSheet": 8,
-            "LAST_32": 5
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "GHA": {
@@ -354,16 +355,17 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 70,
+      "total": 98,
       "teams": {
         "MAR": {
-          "total": 56,
+          "total": 84,
           "breakdown": {
             "draw": 2,
-            "goals": 30,
-            "win": 15,
-            "cleanSheet": 4,
-            "LAST_32": 5
+            "goals": 39,
+            "win": 20,
+            "cleanSheet": 8,
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "CZE": {
