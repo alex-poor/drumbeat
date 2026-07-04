@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T02:25:35.638Z",
+  "lastUpdated": "2026-07-04T06:43:19.770Z",
   "prevTotals": {
     "jess": 82,
     "paul": 111,
@@ -8,24 +8,25 @@
     "sven": 100,
     "andrew": 87,
     "richard": 101,
-    "anne": 120,
+    "anne": 139,
     "jen": 96,
-    "john": 145,
+    "john": 156,
     "wendy": 70
   },
   "players": [
     {
       "id": "jess",
       "name": "Jess",
-      "total": 82,
+      "total": 99,
       "teams": {
         "COL": {
-          "total": 32,
+          "total": 49,
           "breakdown": {
-            "win": 10,
-            "goals": 12,
-            "cleanSheet": 8,
-            "draw": 2
+            "win": 15,
+            "goals": 15,
+            "cleanSheet": 12,
+            "draw": 2,
+            "LAST_32": 5
           }
         },
         "JPN": {
@@ -250,7 +251,7 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 139,
+      "total": 144,
       "teams": {
         "ARG": {
           "total": 66,
@@ -272,12 +273,13 @@
           }
         },
         "GHA": {
-          "total": 21,
+          "total": 26,
           "breakdown": {
             "win": 5,
             "goals": 6,
             "cleanSheet": 8,
-            "draw": 2
+            "draw": 2,
+            "LAST_32": 5
           }
         }
       }
