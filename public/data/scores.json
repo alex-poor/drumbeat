@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T02:39:22.751Z",
+  "lastUpdated": "2026-07-06T08:15:23.463Z",
   "prevTotals": {
     "jess": 99,
     "paul": 111,
@@ -51,15 +51,16 @@
     {
       "id": "paul",
       "name": "Paul",
-      "total": 111,
+      "total": 127,
       "teams": {
         "MEX": {
-          "total": 65,
+          "total": 81,
           "breakdown": {
             "win": 20,
-            "goals": 24,
+            "goals": 30,
             "cleanSheet": 16,
-            "LAST_32": 5
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "AUS": {
