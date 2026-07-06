@@ -1280,12 +1280,12 @@
     "homeScore": null,
     "awayScore": null,
     "date": "2026-07-06",
-    "time": "00:00",
-    "utc": "2026-07-06T00:00:00Z",
+    "time": "01:00",
+    "utc": "2026-07-06T01:00:00Z",
     "venue": "",
     "stage": "LAST_16",
     "group": null,
-    "status": "TIMED"
+    "status": "IN_PLAY"
   },
   {
     "id": "537379",
