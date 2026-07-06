@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:48:29.388Z",
+  "lastUpdated": "2026-07-06T21:25:13.984Z",
   "prevTotals": {
     "jess": 99,
     "paul": 127,
@@ -152,16 +152,17 @@
     {
       "id": "sven",
       "name": "Sven",
-      "total": 100,
+      "total": 110,
       "teams": {
         "POR": {
-          "total": 51,
+          "total": 61,
           "breakdown": {
             "draw": 4,
             "goals": 24,
             "win": 10,
             "cleanSheet": 8,
-            "LAST_32": 5
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "ALG": {
@@ -220,16 +221,17 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 101,
+      "total": 123,
       "teams": {
         "ESP": {
-          "total": 62,
+          "total": 84,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 16,
-            "win": 15,
-            "goals": 24,
-            "LAST_32": 5
+            "cleanSheet": 20,
+            "win": 20,
+            "goals": 27,
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "SWE": {
