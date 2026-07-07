@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T21:18:28.803Z",
+  "lastUpdated": "2026-07-07T22:56:01.539Z",
   "prevTotals": {
     "jess": 99,
     "paul": 127,
@@ -17,16 +17,17 @@
     {
       "id": "jess",
       "name": "Jess",
-      "total": 99,
+      "total": 120,
       "teams": {
         "COL": {
-          "total": 49,
+          "total": 70,
           "breakdown": {
             "win": 15,
-            "goals": 15,
+            "goals": 24,
             "cleanSheet": 12,
-            "draw": 2,
-            "LAST_32": 5
+            "draw": 4,
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "JPN": {
@@ -327,7 +328,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 178,
+      "total": 199,
       "teams": {
         "FRA": {
           "total": 94,
@@ -340,13 +341,14 @@
           }
         },
         "SUI": {
-          "total": 53,
+          "total": 74,
           "breakdown": {
-            "draw": 2,
-            "goals": 27,
+            "draw": 4,
+            "goals": 36,
             "win": 15,
             "cleanSheet": 4,
-            "LAST_32": 5
+            "LAST_32": 5,
+            "LAST_16": 10
           }
         },
         "CPV": {
