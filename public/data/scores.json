@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-07T22:56:01.539Z",
+  "lastUpdated": "2026-07-08T02:08:52.216Z",
   "prevTotals": {
-    "jess": 99,
+    "jess": 120,
     "paul": 127,
     "sean": 154,
     "alan": 81,
@@ -10,22 +10,22 @@
     "richard": 123,
     "anne": 178,
     "jen": 109,
-    "john": 178,
+    "john": 199,
     "wendy": 98
   },
   "players": [
     {
       "id": "jess",
       "name": "Jess",
-      "total": 120,
+      "total": 118,
       "teams": {
         "COL": {
-          "total": 70,
+          "total": 68,
           "breakdown": {
             "win": 15,
             "goals": 24,
             "cleanSheet": 12,
-            "draw": 4,
+            "draw": 2,
             "LAST_32": 5,
             "LAST_16": 10
           }
@@ -328,7 +328,7 @@
     {
       "id": "john",
       "name": "John",
-      "total": 199,
+      "total": 205,
       "teams": {
         "FRA": {
           "total": 94,
@@ -341,11 +341,11 @@
           }
         },
         "SUI": {
-          "total": 74,
+          "total": 80,
           "breakdown": {
-            "draw": 4,
-            "goals": 36,
-            "win": 15,
+            "draw": 2,
+            "goals": 39,
+            "win": 20,
             "cleanSheet": 4,
             "LAST_32": 5,
             "LAST_16": 10
