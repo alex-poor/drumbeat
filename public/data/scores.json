@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T21:18:25.600Z",
+  "lastUpdated": "2026-07-09T23:06:39.291Z",
   "prevTotals": {
     "jess": 118,
     "paul": 127,
@@ -328,16 +328,17 @@
     {
       "id": "john",
       "name": "John",
-      "total": 205,
+      "total": 235,
       "teams": {
         "FRA": {
-          "total": 94,
+          "total": 124,
           "breakdown": {
-            "win": 25,
-            "goals": 42,
-            "cleanSheet": 12,
+            "win": 30,
+            "goals": 48,
+            "cleanSheet": 16,
             "LAST_32": 5,
-            "LAST_16": 10
+            "LAST_16": 10,
+            "QUARTER_FINALS": 15
           }
         },
         "SUI": {
@@ -365,17 +366,18 @@
     {
       "id": "wendy",
       "name": "Wendy",
-      "total": 98,
+      "total": 113,
       "teams": {
         "MAR": {
-          "total": 84,
+          "total": 99,
           "breakdown": {
             "draw": 2,
             "goals": 39,
             "win": 20,
             "cleanSheet": 8,
             "LAST_32": 5,
-            "LAST_16": 10
+            "LAST_16": 10,
+            "QUARTER_FINALS": 15
           }
         },
         "CZE": {
