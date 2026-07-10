@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T21:01:58.917Z",
+  "lastUpdated": "2026-07-10T22:55:46.493Z",
   "prevTotals": {
     "jess": 118,
     "paul": 127,
@@ -87,17 +87,18 @@
     {
       "id": "sean",
       "name": "Sean",
-      "total": 154,
+      "total": 172,
       "teams": {
         "BEL": {
-          "total": 77,
+          "total": 95,
           "breakdown": {
             "draw": 4,
-            "goals": 39,
+            "goals": 42,
             "cleanSheet": 4,
             "win": 15,
             "LAST_32": 5,
-            "LAST_16": 10
+            "LAST_16": 10,
+            "QUARTER_FINALS": 15
           }
         },
         "EGY": {
@@ -224,17 +225,18 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 123,
+      "total": 149,
       "teams": {
         "ESP": {
-          "total": 84,
+          "total": 110,
           "breakdown": {
             "draw": 2,
             "cleanSheet": 20,
-            "win": 20,
-            "goals": 27,
+            "win": 25,
+            "goals": 33,
             "LAST_32": 5,
-            "LAST_16": 10
+            "LAST_16": 10,
+            "QUARTER_FINALS": 15
           }
         },
         "SWE": {
