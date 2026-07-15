@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:54:07.521Z",
+  "lastUpdated": "2026-07-15T22:54:10.396Z",
   "prevTotals": {
     "jess": 118,
     "paul": 127,
@@ -260,17 +260,18 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 207,
+      "total": 238,
       "teams": {
         "ARG": {
-          "total": 119,
+          "total": 150,
           "breakdown": {
-            "win": 30,
-            "goals": 51,
+            "win": 35,
+            "goals": 57,
             "cleanSheet": 8,
             "LAST_32": 5,
             "LAST_16": 10,
-            "QUARTER_FINALS": 15
+            "QUARTER_FINALS": 15,
+            "SEMI_FINALS": 20
           }
         },
         "CAN": {
