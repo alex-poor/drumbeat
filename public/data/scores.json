@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T20:40:06.369Z",
+  "lastUpdated": "2026-07-19T22:44:31.573Z",
   "prevTotals": {
     "jess": 118,
     "paul": 127,
@@ -225,19 +225,21 @@
     {
       "id": "richard",
       "name": "Richard",
-      "total": 184,
+      "total": 266,
       "teams": {
         "ESP": {
-          "total": 145,
+          "total": 227,
           "breakdown": {
             "draw": 2,
-            "cleanSheet": 24,
-            "win": 30,
-            "goals": 39,
+            "cleanSheet": 28,
+            "win": 35,
+            "goals": 42,
             "LAST_32": 5,
             "LAST_16": 10,
             "QUARTER_FINALS": 15,
-            "SEMI_FINALS": 20
+            "SEMI_FINALS": 20,
+            "FINAL": 30,
+            "WINNER": 40
           }
         },
         "SWE": {
@@ -260,10 +262,10 @@
     {
       "id": "anne",
       "name": "Anne",
-      "total": 238,
+      "total": 268,
       "teams": {
         "ARG": {
-          "total": 150,
+          "total": 180,
           "breakdown": {
             "win": 35,
             "goals": 57,
@@ -271,7 +273,8 @@
             "LAST_32": 5,
             "LAST_16": 10,
             "QUARTER_FINALS": 15,
-            "SEMI_FINALS": 20
+            "SEMI_FINALS": 20,
+            "FINAL": 30
           }
         },
         "CAN": {
