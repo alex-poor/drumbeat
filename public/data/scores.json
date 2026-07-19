@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:42:38.489Z",
+  "lastUpdated": "2026-07-19T02:08:26.689Z",
   "prevTotals": {
     "jess": 118,
     "paul": 127,
@@ -333,18 +333,19 @@
     {
       "id": "john",
       "name": "John",
-      "total": 273,
+      "total": 305,
       "teams": {
         "FRA": {
-          "total": 144,
+          "total": 176,
           "breakdown": {
             "win": 30,
-            "goals": 48,
+            "goals": 60,
             "cleanSheet": 16,
             "LAST_32": 5,
             "LAST_16": 10,
             "QUARTER_FINALS": 15,
-            "SEMI_FINALS": 20
+            "SEMI_FINALS": 20,
+            "THIRD_PLACE": 20
           }
         },
         "SUI": {
